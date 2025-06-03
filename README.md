@@ -32,7 +32,8 @@ Customer Insights Panel: Compares new vs. returning customers and tracks order f
 Business Impact & Insights:
 By providing clear, actionable insights, the dashboard helps Blinkit optimize inventory, tailor promotions, and allocate resources more effectively. Teams can quickly respond to sales fluctuations, improve customer retention strategies, and ultimately increase revenue while reducing operational inefficiencies.
 
-6.Screeshots/Demos
+6.Screeshots/Demos:
+https://github.com/Priyanka0039/Blinkit-sales-Dashboard/blob/main/snapshot%20of%20the%20dashboard.png
 
 
 
